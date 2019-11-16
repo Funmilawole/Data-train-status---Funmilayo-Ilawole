@@ -14,11 +14,9 @@ Least squares will be used to fit a line to my data. The following steps are req
 if i have an R^2 of 30%, it simply means the average number of code written cannot accurately estimate or predict the role of the data scientist who wrote the code 
 An R^2 of 90%/95%/100% ....  can estimate or predict the role of the data scientist who wrote the code 
 
-P-value:
+P-value: This determines if the effect (R^2) is statistically significant 
 
-
-
-
+Logistic regression: It is a statistical model used for binary classifications such as Yes or no, white or black,true or false etc. Classical example, using the height and weight of individuals to classify them as male or female.
 
 
 #Alternative learning
