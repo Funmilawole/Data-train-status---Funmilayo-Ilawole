@@ -14,6 +14,12 @@ Least squares will be used to fit a line to my data. The following steps are req
 if i have an R^2 of 30%, it simply means the average number of code written cannot accurately estimate or predict the role of the data scientist who wrote the code 
 An R^2 of 90%/95%/100% ....  can estimate or predict the role of the data scientist who wrote the code 
 
+P-value:
+
+
+
+
+
 
 #Alternative learning
 How to read the sample spreadsheet file CSV on python - with the information on the average code written and career progression for a sample of data scientists 
