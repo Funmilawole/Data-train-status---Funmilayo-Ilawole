@@ -1,0 +1,20 @@
+Week 1 Objective:
+Statistical Distribution refresher: Linear regression, Logistic regression, R squared, P-value and T-tests
+Key takeaway: Regression simply helps to identify the relationship between variables, the degree of the relationships and how the relationships can be used to predict future outcomes or decisions.
+For example: Regressions can be used to determine the relationship between the number of code i write in a week and my current role in data science, participation in the data train class and my success as a data scientist etc
+To explain the various statistical concepts, i will use the example of the number of code written in  week and success as a data scientist
+The linear regression is a simple method in analysing data. 
+The regression model allows for a linear relationship between my forecast variable which is my role in data science (Y) and my predictor variable - Number of code written (x)
+R-squareed indicates the percentage of the variance in the individual's role that the number of codes written explain collectively. R-squared measures the strength of the relationship between my variables
+Least squares will be used to fit a line to my data. The following steps are required:
+- Plot my data; average number of written code on the x-axis and career progression on the y-axis 
+- plot a line, measure the distance from the line to the data, square and add each distance 
+- identify the sum of square around the mean
+- calculate R-squared: (variation around the mean - fit)/variation around the mean 
+if i have an R^2 of 30%, it simply means the average number of code written cannot accurately estimate or predict the role of the data scientist who wrote the code 
+An R^2 of 90%/95%/100% ....  can estimate or predict the role of the data scientist who wrote the code 
+
+
+#Alternative learning
+How to read the sample spreadsheet file CSV on python - with the information on the average code written and career progression for a sample of data scientists 
+Getting the Anaconda distribution 
